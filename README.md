@@ -19,6 +19,7 @@ Unfortunately, I was not able to meet the stated performance goal of 75% on the 
  ![Model Results](https://github.com/noble190/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_Attempt8_Results.png)
 
 Before attempted optimization, I was looking at a model accuracy of ~53%. I've attempted a few approaches to improve this %.
+<br>
 The most significant improvement came as a result of creating buckets for the 'ASK_AMT' column, and incorporating this model as a feature. 
 ![Model Optimization](https://github.com/noble190/Neural_Network_Charity_Analysis/blob/main/Images/Optimization.png)
 
