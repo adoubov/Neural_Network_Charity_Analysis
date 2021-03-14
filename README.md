@@ -19,4 +19,4 @@ The purpose of this analysis is to create, train, and refine a neural network mo
 ![Model Results](https://github.com/noble190/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_Attempt8_Results.png)
 <hr>
 * Before attempted optimization, I was looking at a model accuracy of ~53%. I've attempted a few approaches to improve this %:
-** The most significant improvement came as a result of creating buckets for the 'ASK_AMT' column, and incorporating this model as a feature. 
+  * The most significant improvement came as a result of creating buckets for the 'ASK_AMT' column, and incorporating this model as a feature. 
