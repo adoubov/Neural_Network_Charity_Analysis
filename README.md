@@ -28,4 +28,4 @@ I've also decreased the # of epochs from 100 in the original model to 40. I've n
 I've attempted using different activation functions (tahn), but saw no marked improvement in model accuracy.
 
 I've also evaluated a simpler logistic regression model against this dataset, with significantly worse results:
-![Model Optimization](https://github.com/noble190/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_Attempt4_Result.png)
+![Model Optimization](https://github.com/noble190/Neural_Network_Charity_Analysis/blob/main/Images/Optimization_Attempt4_Results.png)
