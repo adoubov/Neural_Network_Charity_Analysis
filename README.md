@@ -32,3 +32,5 @@ I've also evaluated a simpler logistic regression model against this dataset, wi
 
 ## Conclusion
 Overall, I've found this model to be moderately effective in predicting the performance of investments for the given data set. I would recommend continued use of neural networks, with further changes to improve model performance. For the next iteration, I would recommend reducing the # of features - possibly dropping the 'APPLICATION_TYPE' column - in order to reduce issues with overfitting that are shown by the gap between training and test accuracy.
+
+I would also recommend evaluating a random forest classifier, if only to identify less important features that may then be dropped to reduce risk of overfitting.
